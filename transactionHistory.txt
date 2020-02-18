@@ -1,0 +1,4 @@
+Event     Company-Symbol      Number    Price     Totalvalue     Time      
+Buy       AAPL                10        $199.92   $1999.20       21:27:05  
+Buy       GOOG                4         $568.96   $2275.86       21:27:59  
+SELL      AAPL                2         $197.92   $395.84        21:28:16  

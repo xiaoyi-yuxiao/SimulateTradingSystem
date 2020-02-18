@@ -1,0 +1,4 @@
+Event               Amount              Date                Balance             
+Withdrawal          $2000.00            12/20/19            8000.00             
+Withdrawal          $2400.00            12/20/19            5600.00             
+Deposit             $300.00             12/20/19            5900.00             

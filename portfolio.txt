@@ -1,0 +1,3 @@
+CompanySymbol       Number    Price-per-share     Totalvalue
+GOOG                4         568.964             2275.86             
+AAPL                8         199.92              1599.36             
