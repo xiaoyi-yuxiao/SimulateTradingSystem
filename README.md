@@ -1,4 +1,4 @@
-# final-prject
+# Raw Edition
 This is the first edition of the simulated trading system
 Branch
   Account--deposit, withdraw
